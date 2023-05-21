@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Ikut serta menjalankan nodes
 - Berkontribusi kepada project dan mendapatkan Whitelist
 - Menjalankan nodes di komputer sendiri
+- Mencoba menjalankan melalui VPS
